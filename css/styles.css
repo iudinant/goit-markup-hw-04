@@ -416,6 +416,7 @@ font-weight: 500;
     align-items: center;
     justify-content: center;
     color: tomato;
+    margin-bottom: ;
 }
 .customers-item {
     width: calc((100% - 120px) / 6); 
